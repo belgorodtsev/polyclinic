@@ -1,1 +1,1 @@
-# polyclinic
+# ИС "Поликлиника" :hospital:
